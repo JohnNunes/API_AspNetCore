@@ -1,0 +1,11 @@
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.AssemblyInfo.cs
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.deps.json
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.json
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.runtimeconfig.dev.json
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\bin\Debug\netcoreapp2.0\ProductCatalog.pdb
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.dll
+C:\Users\Luciene\Desktop\joao\PROJETOS - ESTUDOS\Baltieri - projeto\ProductCatalog\obj\Debug\netcoreapp2.0\ProductCatalog.pdb
